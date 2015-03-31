@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">TulingDemo</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="action_settings">Settings</string>
+	<string name="sendout">sendout</string>
+	<string-array name="welcome_tips">
+		<item>Hello, can I help you?</item>
+		<item>How are you?</item>
+		<item>I miss you</item>
+		<item>Welcome back</item>
+		<item>I am Tuling Robot</item>
+	</string-array>
+</resources>
